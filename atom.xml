@@ -4,9 +4,9 @@
   <subtitle>intriguing reading habbits</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-07-08T06:44:01.373Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://pksharma65.github.io/"/>
+  <updated>2016-07-09T09:23:23.400Z</updated>
+  <id>https://pksharma65.github.io/</id>
   
   <author>
     <name>Pradeep Kumar Sharma</name>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Tips to adapting to a new situation</title>
-    <link href="http://yoursite.com/2016/07/08/Tips-to-Adapting-to-a-new-situation/"/>
-    <id>http://yoursite.com/2016/07/08/Tips-to-Adapting-to-a-new-situation/</id>
+    <link href="https://pksharma65.github.io/2016/07/08/Tips-to-Adapting-to-a-new-situation/"/>
+    <id>https://pksharma65.github.io/2016/07/08/Tips-to-Adapting-to-a-new-situation/</id>
     <published>2016-07-08T03:08:37.000Z</published>
-    <updated>2016-07-08T06:44:01.373Z</updated>
+    <updated>2016-07-09T09:23:23.400Z</updated>
     
     <content type="html">&lt;!-- excerpt --&gt;&lt;/p&gt;
 &lt;p&gt;Are you shy of adjusting and adapting to a new situation? Here are tips that would find you in the realm of adjusted world&lt;/p&gt;
@@ -42,16 +42,16 @@
     </summary>
     
     
-      <category term="lifehacks" scheme="http://yoursite.com/tags/lifehacks/"/>
+      <category term="lifehacks" scheme="https://pksharma65.github.io/tags/lifehacks/"/>
     
-      <category term="tips" scheme="http://yoursite.com/tags/tips/"/>
+      <category term="tips" scheme="https://pksharma65.github.io/tags/tips/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/07/08/hello-world/"/>
-    <id>http://yoursite.com/2016/07/08/hello-world/</id>
+    <link href="https://pksharma65.github.io/2016/07/08/hello-world/"/>
+    <id>https://pksharma65.github.io/2016/07/08/hello-world/</id>
     <published>2016-07-08T02:08:37.000Z</published>
     <updated>2016-07-07T21:49:31.070Z</updated>
     
@@ -77,8 +77,8 @@
   
   <entry>
     <title>All about writing Resumes</title>
-    <link href="http://yoursite.com/2016/07/08/All-about-writing-Resumes/"/>
-    <id>http://yoursite.com/2016/07/08/All-about-writing-Resumes/</id>
+    <link href="https://pksharma65.github.io/2016/07/08/All-about-writing-Resumes/"/>
+    <id>https://pksharma65.github.io/2016/07/08/All-about-writing-Resumes/</id>
     <published>2016-07-08T01:05:27.000Z</published>
     <updated>2016-07-07T21:47:12.334Z</updated>
     
@@ -130,9 +130,9 @@
     </summary>
     
     
-      <category term="google" scheme="http://yoursite.com/tags/google/"/>
+      <category term="google" scheme="https://pksharma65.github.io/tags/google/"/>
     
-      <category term="resume" scheme="http://yoursite.com/tags/resume/"/>
+      <category term="resume" scheme="https://pksharma65.github.io/tags/resume/"/>
     
   </entry>
   
